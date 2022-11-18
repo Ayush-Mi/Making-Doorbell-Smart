@@ -35,7 +35,7 @@ The code requires at least 2gb of memory to run inference in near realtime and s
 
 #### Detected Faces
 
-:---: | :---: | :---: |
+:---: | :---: | :---: 
 ![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/03d65536-02a1-4791-9188-966e10ab4676.jpg) | ![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/d1cd6db9-a7c0-4ebb-b48e-b35f798c69fb.jpg) | ![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/db13a86f-b001-4fa3-91d2-2b3d92157370.jpg)
 
 #### Generated Metadata
