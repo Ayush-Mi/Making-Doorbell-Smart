@@ -34,11 +34,9 @@ The code requires at least 2gb of memory to run inference in near realtime and s
 ![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/img/test_1.jpg)
 
 #### Detected Faces
-![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/03d65536-02a1-4791-9188-966e10ab4676.jpg)
 
-![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/d1cd6db9-a7c0-4ebb-b48e-b35f798c69fb.jpg)
-
-![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/db13a86f-b001-4fa3-91d2-2b3d92157370.jpg)
+:---: | :---: | :---: |
+![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/03d65536-02a1-4791-9188-966e10ab4676.jpg) | ![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/d1cd6db9-a7c0-4ebb-b48e-b35f798c69fb.jpg) | ![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/unknown_faces/db13a86f-b001-4fa3-91d2-2b3d92157370.jpg)
 
 #### Generated Metadata
 ![](https://github.com/Ayush-Mi/Making-Doorbell-Smart/blob/main/img/master_sheet.png)
